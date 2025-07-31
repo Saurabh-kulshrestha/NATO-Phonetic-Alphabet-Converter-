@@ -51,7 +51,7 @@ Output: ['Hotel', 'Echo', 'Lima', 'Lima', 'Oscar']
 
 ## 📽 Demo
 
-
+![Gameplay](gameplay.gif)
 
 
 ---
